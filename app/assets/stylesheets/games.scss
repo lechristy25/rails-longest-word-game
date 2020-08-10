@@ -1,0 +1,19 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+ .word-grid-blue{
+  list-style-type: none;
+  padding-inline-start: 0px;
+  
+  li{
+    display: inline-block;
+    margin: 10px;
+    background-color: #3498DC;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+  }
+}
+
